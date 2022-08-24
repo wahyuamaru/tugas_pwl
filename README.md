@@ -1,0 +1,1 @@
+Sistem Informasi Mahasiswa adalah aplikasi pengolahan data akademik perguruan tinggi berbasis web dimana data yang dikelola mulai dari data kemahasiswaan, data tenaga pendidik dan data akademik lainnya. Aplikasi menggunakan java script, php dan css.![web1](https://user-images.githubusercontent.com/111728549/186331271-d32d6ec7-68b9-4b06-acf7-7ce353029cf2.jpg)
